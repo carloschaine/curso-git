@@ -8,6 +8,7 @@ namespace TestGit {
     class Program {
         static void Main(string[] args) {
             Console.WriteLine("Hola Mundo");
+            Console.WriteLine("Buenos días");
             Console.ReadLine();
              
         }
